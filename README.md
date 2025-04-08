@@ -7,7 +7,10 @@ This project explores a commercial real estate dataset to provide actionable ins
 
 ### 🔗 Interactive Dashboard  
 📊 **View Visual Insights in Tableau:**  
-👉 [Real Estate Dashboard on Tableau Public](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/AssetMAnagement/RealEstate-AssetManagement)
+
+[![Tableau Dashboard Preview](https://public.tableau.com/thumb/views/Book1_17441155230970/Dashboard1)](https://public.tableau.com/views/Book1_17441155230970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 ---
 
