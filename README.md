@@ -88,7 +88,7 @@ The file [`business_questions.sql`](business_questions.sql) includes queries lik
 ## 🤝 Let's Connect
 
 Have questions or want to collaborate?  
-Reach out via [Tableau Public](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/AssetMAnagement/RealEstate-AssetManagement)  
+Reach out via [Tableau Public](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Book1_17441155230970/Dashboard1) 
 or fork this project on GitHub and let’s explore real estate data together!
 
 ---
